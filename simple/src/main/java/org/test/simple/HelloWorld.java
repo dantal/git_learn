@@ -6,5 +6,9 @@ public class HelloWorld {
 	//antoher test
 	//another test
 	//hahah
+<<<<<<< HEAD
 	//another test
+=======
+	//hihihi
+>>>>>>> refs/remotes/git_learn/master
 }
